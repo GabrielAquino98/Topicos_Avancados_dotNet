@@ -1,0 +1,6 @@
+C:\Users\user-10\source\repos\ListaNumeros\CalcularImpostoCarroZero\bin\Debug\CalcularImpostoCarroZero.exe.config
+C:\Users\user-10\source\repos\ListaNumeros\CalcularImpostoCarroZero\bin\Debug\CalcularImpostoCarroZero.exe
+C:\Users\user-10\source\repos\ListaNumeros\CalcularImpostoCarroZero\bin\Debug\CalcularImpostoCarroZero.pdb
+C:\Users\user-10\source\repos\ListaNumeros\CalcularImpostoCarroZero\obj\Debug\CalcularImpostoCarroZero.csproj.CoreCompileInputs.cache
+C:\Users\user-10\source\repos\ListaNumeros\CalcularImpostoCarroZero\obj\Debug\CalcularImpostoCarroZero.exe
+C:\Users\user-10\source\repos\ListaNumeros\CalcularImpostoCarroZero\obj\Debug\CalcularImpostoCarroZero.pdb

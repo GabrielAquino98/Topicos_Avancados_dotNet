@@ -1,0 +1,7 @@
+C:\Users\user-10\source\repos\ListaNumeros\SalarioVendedor\bin\Debug\SalarioVendedor.exe.config
+C:\Users\user-10\source\repos\ListaNumeros\SalarioVendedor\bin\Debug\SalarioVendedor.exe
+C:\Users\user-10\source\repos\ListaNumeros\SalarioVendedor\bin\Debug\SalarioVendedor.pdb
+C:\Users\user-10\source\repos\ListaNumeros\SalarioVendedor\obj\Debug\SalarioVendedor.csprojAssemblyReference.cache
+C:\Users\user-10\source\repos\ListaNumeros\SalarioVendedor\obj\Debug\SalarioVendedor.csproj.CoreCompileInputs.cache
+C:\Users\user-10\source\repos\ListaNumeros\SalarioVendedor\obj\Debug\SalarioVendedor.exe
+C:\Users\user-10\source\repos\ListaNumeros\SalarioVendedor\obj\Debug\SalarioVendedor.pdb

@@ -1,0 +1,7 @@
+C:\Users\user-10\source\repos\ListaNumeros\PessoIdeal\bin\Debug\PessoIdeal.exe.config
+C:\Users\user-10\source\repos\ListaNumeros\PessoIdeal\bin\Debug\PessoIdeal.exe
+C:\Users\user-10\source\repos\ListaNumeros\PessoIdeal\bin\Debug\PessoIdeal.pdb
+C:\Users\user-10\source\repos\ListaNumeros\PessoIdeal\obj\Debug\PessoIdeal.csprojAssemblyReference.cache
+C:\Users\user-10\source\repos\ListaNumeros\PessoIdeal\obj\Debug\PessoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\user-10\source\repos\ListaNumeros\PessoIdeal\obj\Debug\PessoIdeal.exe
+C:\Users\user-10\source\repos\ListaNumeros\PessoIdeal\obj\Debug\PessoIdeal.pdb

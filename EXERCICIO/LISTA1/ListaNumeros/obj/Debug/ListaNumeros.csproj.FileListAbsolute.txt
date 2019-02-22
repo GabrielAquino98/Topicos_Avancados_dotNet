@@ -1,0 +1,7 @@
+C:\Users\user-10\source\repos\ListaNumeros\ListaNumeros\obj\Debug\ListaNumeros.csprojAssemblyReference.cache
+C:\Users\user-10\source\repos\ListaNumeros\ListaNumeros\obj\Debug\ListaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\user-10\source\repos\ListaNumeros\ListaNumeros\bin\Debug\ListaNumeros.exe.config
+C:\Users\user-10\source\repos\ListaNumeros\ListaNumeros\bin\Debug\ListaNumeros.exe
+C:\Users\user-10\source\repos\ListaNumeros\ListaNumeros\bin\Debug\ListaNumeros.pdb
+C:\Users\user-10\source\repos\ListaNumeros\ListaNumeros\obj\Debug\ListaNumeros.exe
+C:\Users\user-10\source\repos\ListaNumeros\ListaNumeros\obj\Debug\ListaNumeros.pdb

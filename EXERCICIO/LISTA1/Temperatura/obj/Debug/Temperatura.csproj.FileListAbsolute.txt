@@ -1,0 +1,7 @@
+C:\Users\gaquino3\source\repos\Temperatura\Temperatura\bin\Debug\Temperatura.exe.config
+C:\Users\gaquino3\source\repos\Temperatura\Temperatura\bin\Debug\Temperatura.exe
+C:\Users\gaquino3\source\repos\Temperatura\Temperatura\bin\Debug\Temperatura.pdb
+C:\Users\gaquino3\source\repos\Temperatura\Temperatura\obj\Debug\Temperatura.csprojAssemblyReference.cache
+C:\Users\gaquino3\source\repos\Temperatura\Temperatura\obj\Debug\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\gaquino3\source\repos\Temperatura\Temperatura\obj\Debug\Temperatura.exe
+C:\Users\gaquino3\source\repos\Temperatura\Temperatura\obj\Debug\Temperatura.pdb

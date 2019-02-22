@@ -1,0 +1,6 @@
+C:\Users\gaquino3\source\repos\Temperatura\SomandoNumeros\bin\Debug\SomandoNumeros.exe.config
+C:\Users\gaquino3\source\repos\Temperatura\SomandoNumeros\bin\Debug\SomandoNumeros.exe
+C:\Users\gaquino3\source\repos\Temperatura\SomandoNumeros\bin\Debug\SomandoNumeros.pdb
+C:\Users\gaquino3\source\repos\Temperatura\SomandoNumeros\obj\Debug\SomandoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\gaquino3\source\repos\Temperatura\SomandoNumeros\obj\Debug\SomandoNumeros.exe
+C:\Users\gaquino3\source\repos\Temperatura\SomandoNumeros\obj\Debug\SomandoNumeros.pdb

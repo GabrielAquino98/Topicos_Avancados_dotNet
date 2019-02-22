@@ -1,0 +1,6 @@
+C:\Users\user-10\source\repos\ListaNumeros\Eleicao\bin\Debug\Eleicao.exe.config
+C:\Users\user-10\source\repos\ListaNumeros\Eleicao\bin\Debug\Eleicao.exe
+C:\Users\user-10\source\repos\ListaNumeros\Eleicao\bin\Debug\Eleicao.pdb
+C:\Users\user-10\source\repos\ListaNumeros\Eleicao\obj\Debug\Eleicao.csproj.CoreCompileInputs.cache
+C:\Users\user-10\source\repos\ListaNumeros\Eleicao\obj\Debug\Eleicao.exe
+C:\Users\user-10\source\repos\ListaNumeros\Eleicao\obj\Debug\Eleicao.pdb

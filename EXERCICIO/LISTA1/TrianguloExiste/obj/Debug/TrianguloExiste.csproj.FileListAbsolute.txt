@@ -1,0 +1,6 @@
+C:\Users\user-10\source\repos\ListaNumeros\TrianguloExiste\bin\Debug\TrianguloExiste.exe.config
+C:\Users\user-10\source\repos\ListaNumeros\TrianguloExiste\bin\Debug\TrianguloExiste.exe
+C:\Users\user-10\source\repos\ListaNumeros\TrianguloExiste\bin\Debug\TrianguloExiste.pdb
+C:\Users\user-10\source\repos\ListaNumeros\TrianguloExiste\obj\Debug\TrianguloExiste.csproj.CoreCompileInputs.cache
+C:\Users\user-10\source\repos\ListaNumeros\TrianguloExiste\obj\Debug\TrianguloExiste.exe
+C:\Users\user-10\source\repos\ListaNumeros\TrianguloExiste\obj\Debug\TrianguloExiste.pdb

@@ -1,0 +1,7 @@
+C:\Users\user-10\source\repos\ListaNumeros\IdadeEmDias\bin\Debug\IdadeEmDias.exe.config
+C:\Users\user-10\source\repos\ListaNumeros\IdadeEmDias\bin\Debug\IdadeEmDias.exe
+C:\Users\user-10\source\repos\ListaNumeros\IdadeEmDias\bin\Debug\IdadeEmDias.pdb
+C:\Users\user-10\source\repos\ListaNumeros\IdadeEmDias\obj\Debug\IdadeEmDias.csprojAssemblyReference.cache
+C:\Users\user-10\source\repos\ListaNumeros\IdadeEmDias\obj\Debug\IdadeEmDias.csproj.CoreCompileInputs.cache
+C:\Users\user-10\source\repos\ListaNumeros\IdadeEmDias\obj\Debug\IdadeEmDias.exe
+C:\Users\user-10\source\repos\ListaNumeros\IdadeEmDias\obj\Debug\IdadeEmDias.pdb

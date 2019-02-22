@@ -1,0 +1,6 @@
+C:\Users\user-10\source\repos\ListaNumeros\Mercearia\obj\Debug\Mercearia.csproj.CoreCompileInputs.cache
+C:\Users\user-10\source\repos\ListaNumeros\Mercearia\bin\Debug\Mercearia.exe.config
+C:\Users\user-10\source\repos\ListaNumeros\Mercearia\bin\Debug\Mercearia.exe
+C:\Users\user-10\source\repos\ListaNumeros\Mercearia\bin\Debug\Mercearia.pdb
+C:\Users\user-10\source\repos\ListaNumeros\Mercearia\obj\Debug\Mercearia.exe
+C:\Users\user-10\source\repos\ListaNumeros\Mercearia\obj\Debug\Mercearia.pdb
