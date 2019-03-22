@@ -1,0 +1,10 @@
+C:\Users\user-10\source\repos\ProjAulaOO2\ProjAulaOO2\bin\Debug\ProjAulaOO2.exe.config
+C:\Users\user-10\source\repos\ProjAulaOO2\ProjAulaOO2\bin\Debug\ProjAulaOO2.exe
+C:\Users\user-10\source\repos\ProjAulaOO2\ProjAulaOO2\bin\Debug\ProjAulaOO2.pdb
+C:\Users\user-10\source\repos\ProjAulaOO2\ProjAulaOO2\bin\Debug\Entidade.dll
+C:\Users\user-10\source\repos\ProjAulaOO2\ProjAulaOO2\bin\Debug\Entidade.pdb
+C:\Users\user-10\source\repos\ProjAulaOO2\ProjAulaOO2\obj\Debug\ProjAulaOO2.csprojAssemblyReference.cache
+C:\Users\user-10\source\repos\ProjAulaOO2\ProjAulaOO2\obj\Debug\ProjAulaOO2.csproj.CoreCompileInputs.cache
+C:\Users\user-10\source\repos\ProjAulaOO2\ProjAulaOO2\obj\Debug\ProjAulaOO2.csproj.CopyComplete
+C:\Users\user-10\source\repos\ProjAulaOO2\ProjAulaOO2\obj\Debug\ProjAulaOO2.exe
+C:\Users\user-10\source\repos\ProjAulaOO2\ProjAulaOO2\obj\Debug\ProjAulaOO2.pdb
