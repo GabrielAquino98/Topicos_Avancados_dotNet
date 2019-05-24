@@ -1,0 +1,6 @@
+C:\Users\user-10\source\repos\WebCadastro\Util\bin\Debug\Util.dll
+C:\Users\user-10\source\repos\WebCadastro\Util\bin\Debug\Util.pdb
+C:\Users\user-10\source\repos\WebCadastro\Util\obj\Debug\Util.csprojAssemblyReference.cache
+C:\Users\user-10\source\repos\WebCadastro\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\user-10\source\repos\WebCadastro\Util\obj\Debug\Util.dll
+C:\Users\user-10\source\repos\WebCadastro\Util\obj\Debug\Util.pdb
