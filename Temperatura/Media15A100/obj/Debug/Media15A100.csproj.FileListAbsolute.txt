@@ -1,0 +1,7 @@
+C:\Users\gaquino3\source\repos\Temperatura\Media15A100\bin\Debug\Media15A100.exe.config
+C:\Users\gaquino3\source\repos\Temperatura\Media15A100\bin\Debug\Media15A100.exe
+C:\Users\gaquino3\source\repos\Temperatura\Media15A100\bin\Debug\Media15A100.pdb
+C:\Users\gaquino3\source\repos\Temperatura\Media15A100\obj\Debug\Media15A100.csproj.CoreCompileInputs.cache
+C:\Users\gaquino3\source\repos\Temperatura\Media15A100\obj\Debug\Media15A100.exe
+C:\Users\gaquino3\source\repos\Temperatura\Media15A100\obj\Debug\Media15A100.pdb
+C:\Users\gaquino3\source\repos\Temperatura\Media15A100\obj\Debug\Media15A100.csprojAssemblyReference.cache

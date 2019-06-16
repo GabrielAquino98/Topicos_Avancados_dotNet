@@ -1,0 +1,7 @@
+C:\Users\gaquino3\source\repos\Temperatura\Frutas\obj\Debug\Frutas.csprojAssemblyReference.cache
+C:\Users\gaquino3\source\repos\Temperatura\Frutas\obj\Debug\Frutas.csproj.CoreCompileInputs.cache
+C:\Users\gaquino3\source\repos\Temperatura\Frutas\bin\Debug\Frutas.exe.config
+C:\Users\gaquino3\source\repos\Temperatura\Frutas\bin\Debug\Frutas.exe
+C:\Users\gaquino3\source\repos\Temperatura\Frutas\bin\Debug\Frutas.pdb
+C:\Users\gaquino3\source\repos\Temperatura\Frutas\obj\Debug\Frutas.exe
+C:\Users\gaquino3\source\repos\Temperatura\Frutas\obj\Debug\Frutas.pdb

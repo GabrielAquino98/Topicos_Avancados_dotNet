@@ -1,0 +1,6 @@
+C:\Users\gaquino3\source\repos\Temperatura\NumerosAteN\bin\Debug\NumerosAteN.exe.config
+C:\Users\gaquino3\source\repos\Temperatura\NumerosAteN\bin\Debug\NumerosAteN.exe
+C:\Users\gaquino3\source\repos\Temperatura\NumerosAteN\bin\Debug\NumerosAteN.pdb
+C:\Users\gaquino3\source\repos\Temperatura\NumerosAteN\obj\Debug\NumerosAteN.csproj.CoreCompileInputs.cache
+C:\Users\gaquino3\source\repos\Temperatura\NumerosAteN\obj\Debug\NumerosAteN.exe
+C:\Users\gaquino3\source\repos\Temperatura\NumerosAteN\obj\Debug\NumerosAteN.pdb

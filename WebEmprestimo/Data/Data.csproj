@@ -4,12 +4,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{50824A51-65EA-466A-BB5D-FC789C83A80E}</ProjectGuid>
+    <ProjectGuid>{2D5818E1-4288-4070-B67D-F588395BEE41}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Data</RootNamespace>
     <AssemblyName>Data</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
@@ -42,16 +42,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EmprestimoDB.cs" />
-    <Compile Include="ParcelaDB.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Model\Model.csproj">
-      <Project>{049BEEC0-5484-4730-83F4-84BE19407F48}</Project>
+      <Project>{1FEE1A40-99F1-4FBE-811B-79519C1036F8}</Project>
       <Name>Model</Name>
     </ProjectReference>
     <ProjectReference Include="..\Util\Util.csproj">
-      <Project>{B5E7B88E-8610-440F-A69D-F414A95436C2}</Project>
+      <Project>{255B0719-5C6A-4EE9-8A14-FAA17D9ECD61}</Project>
       <Name>Util</Name>
     </ProjectReference>
   </ItemGroup>
