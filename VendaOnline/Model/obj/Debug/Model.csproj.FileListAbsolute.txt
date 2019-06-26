@@ -1,0 +1,6 @@
+C:\Users\user-10\source\repos\VendaOnline\Model\bin\Debug\Model.dll
+C:\Users\user-10\source\repos\VendaOnline\Model\bin\Debug\Model.pdb
+C:\Users\user-10\source\repos\VendaOnline\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\user-10\source\repos\VendaOnline\Model\obj\Debug\Model.dll
+C:\Users\user-10\source\repos\VendaOnline\Model\obj\Debug\Model.pdb
+C:\Users\user-10\source\repos\VendaOnline\Model\obj\Debug\Model.csprojAssemblyReference.cache
